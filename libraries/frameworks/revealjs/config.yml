@@ -1,0 +1,4 @@
+revealjs:
+  theme: custom
+  transition: default
+  center: "true"
